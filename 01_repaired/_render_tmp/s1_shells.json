@@ -1,0 +1,1 @@
+{"out_dir": "C:\\github_storage\\pro-device\\renders", "prefix": "s1_shells", "views": [{"name": "front", "dir": [0, -1, 0]}, {"name": "back", "dir": [0, 1, 0]}, {"name": "left", "dir": [-1, 0, 0]}, {"name": "right", "dir": [1, 0, 0]}], "samples": 40}

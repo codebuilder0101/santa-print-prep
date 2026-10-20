@@ -1,0 +1,5 @@
+master: 1,496,150 faces, 747,940 verts, height 1.1229 units
+shells by shared edge: 1   shells by shared vertex: 1
+  shell 0: 1,496,150 faces  bbox min [-0.348, -0.302, 0.0] max [0.352, 0.349, 1.123]  size@25cm [155.9, 144.9, 250.0] mm  watertight True
+edge length @25cm (mm): median 0.416  p5 0.144  p95 1.031  max 4.716  p95/p5 ratio 7.2
+crease map: 10.0% of vertices strongly concave

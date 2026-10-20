@@ -1,0 +1,13 @@
+imported work_shell faces 1496150 1.3s
+components: [1496150]
+removed debris faces: 0  faces now 1496150 (was 1496150)
+after repair: boundary edges 0, non-manifold edges 0
+self-intersecting faces: 15  pairs 22  (2.3s)
+  self-intersection Z range: 0.0217 - 0.542
+  clusters (grid cell -> faces), top 15: [((-0.067, 0.034, 0.034), 5), ((-0.034, -0.303, 0.539), 4), ((-0.202, 0.0, 0.539), 4), ((-0.27, -0.135, 0.505), 2)]
+exported repaired STL
+rendered front 26.5s
+rendered back 26.0s
+rendered left 24.7s
+rendered right 24.0s
+total 118.6s
